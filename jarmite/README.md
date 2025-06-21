@@ -1,4 +1,4 @@
-# Table of Contents
+# Navigation
 - [Home](/README.md)
 
 # Jarmite
