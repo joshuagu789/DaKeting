@@ -1,4 +1,4 @@
-# Navigation
+# Quick Navigation
 - [Home](/README.md)
 
 # Jarmite

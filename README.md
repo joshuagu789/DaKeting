@@ -1,4 +1,4 @@
-# Navigation
+# Quick Navigation
 - [Jarmite](./jarmite/README.md)
 
 # DaKeting
