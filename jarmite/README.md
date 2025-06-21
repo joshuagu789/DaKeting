@@ -1,5 +1,5 @@
 # Quick Navigation
-- [Home](/README.md)
+- [Home](/)
 
 # Jarmite
 gartic phone spinoff

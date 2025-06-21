@@ -1,6 +1,6 @@
 # Quick Navigation
-- [Home](/README.md)
-- [Jarmite Home](/jarmite/README.md)
+- [Home](/)
+- [Jarmite Home](/jarmite/)
 
 # /jarmite/src/api
 Contains code for api layer of Jarmite

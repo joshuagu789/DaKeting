@@ -1,6 +1,6 @@
 # Quick Navigation
-- [Home](/README.md)
-- [Jarmite Home](/jarmite/README.md)
+- [Home](/)
+- [Jarmite Home](/jarmite/)
 
 # /jarmite/src/ui
 Contains code for UI of Jarmite

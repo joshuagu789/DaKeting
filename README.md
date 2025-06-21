@@ -1,5 +1,5 @@
 # Quick Navigation
-- [Jarmite](./jarmite/README.md)
+- [Jarmite](./jarmite/)
 
 # DaKeting
 projects of the DaKeting team
