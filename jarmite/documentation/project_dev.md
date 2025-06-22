@@ -23,6 +23,7 @@ There is not much competition in telephone based drawing games, as it is mostly 
 ## Stories that are less important
 1. As a user, I want to have the option of joining public game sessions with strangers
 2. As a user, I want to be able to report any player that is being inappropriate
+3. As an admin, I want to be able to see reported players and their drawings, then decide if they get banned or not
 
 ## MVP Features and User Stories
 How Jarmite aims to solve problems:
